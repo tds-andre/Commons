@@ -1,0 +1,31 @@
+<dependency>
+	<groupId>com.maispartners</groupId>
+	<artifactId>ds.ajt</artifactId>
+	<version>1.20</version>
+</dependency>
+<dependency>
+	<groupId>com.maispartners</groupId>
+	<artifactId>ds.Jama</artifactId>
+	<version></version>1.0.2</version>
+</dependency>
+<dependency>
+	<groupId>com.maispartners</groupId>
+	<artifactId>ds.libsvm</artifactId>
+	<version>na</version>
+</dependency>
+<dependency>
+	<groupId>com.maispartners</groupId>
+	<artifactId>ds.weka</artifactId>
+	<version>na</version>
+</dependency>
+<dependency>
+	<groupId>com.maispartners</groupId>
+	<artifactId>ds.commons-math</artifactId>
+	<version>1.2</version>
+</dependency>
+
+<dependency>
+	<groupId>com.maispartners</groupId>
+	<artifactId>ds.javaml</artifactId>
+	<version>0.1.5</version>
+</dependency>
