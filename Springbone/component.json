@@ -1,0 +1,8 @@
+{
+    "name": "springbone",
+    "version": "1.0.0",
+    "main": "./sayhi.js",
+    "dependencies": {
+		"backbone": "latest"
+    }
+}
